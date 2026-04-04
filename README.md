@@ -1,12 +1,12 @@
-#🚀 SpaceX Falcon 9 Landing Prediction
-#IBM Data Science Capstone Project
-#📌 Project Overview
+# 🚀 SpaceX Falcon 9 Landing Prediction
+# IBM Data Science Capstone Project
+# 📌 Project Overview
 
 This project is part of the IBM Data Science Professional Certificate. The goal is to analyze SpaceX Falcon 9 launch data and build machine learning models to predict whether the first stage will land successfully.
 
 SpaceX reduces launch costs by reusing rocket boosters. By predicting landing success, we can estimate launch costs and help competing companies make better business decisions.
 
-#🎯 Business Problem
+# 🎯 Business Problem
 
 SpaceX launches cost around $62 million, while competitors may charge over $165 million. The key reason is reusability of the first stage.
 
@@ -33,18 +33,32 @@ SQL (EDA Analysis)
 Jupyter Notebook
 # Project Structure
 ├── Data Collection API.ipynb
+
 ├── Data Collection with Web Scraping.ipynb
+
 ├── Data Wrangling.ipynb
+
 ├── EDA with Data Visualization.ipynb
+
 ├── EDA with SQL.ipynb
+
 ├── Interactive Visual Analytics with Folium.ipynb
+
 ├── Machine Learning Prediction.ipynb
+
 ├── app.py (Dashboard)
+
+
 ├── dataset_part_1.csv
+
 ├── dataset_part_2.csv
+
 ├── dataset_part_3.csv
+
 ├── spacex_web_scraped.csv
+
 └── README.md
+
 # Project Workflow
 1.Data Collection
 SpaceX REST API
@@ -87,7 +101,8 @@ Interactive dashboard built using Plotly Dash to visualize:
 Launch success rates
 Payload vs success
 Launch site comparisons
-      This above you can see by open this link
+      This above you can see by open this link:https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-/blob/main/Data%20sciene%20capstone%20complete%20project.pdf
+      also can  visualize by run dashboard given 
 # How to Run the Project
 Clone the repository
 git clone https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-
