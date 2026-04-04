@@ -101,8 +101,11 @@ Interactive dashboard built using Plotly Dash to visualize:
 Launch success rates
 Payload vs success
 Launch site comparisons
-      This above you can see by open this link:https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-/blob/main/Data%20sciene%20capstone%20complete%20project.pdf
-      also can  visualize by run dashboard given 
+      This above you can see by open this link:
+      https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-/blob/main/Data%20sciene%20capstone%20complete%20project.pdf
+      
+      also can  visualize by run dashboard application  given :
+      https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-/blob/main/spacex_dash_app_complete.py
 # How to Run the Project
 Clone the repository
 git clone https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-
