@@ -17,19 +17,32 @@ Help competitors bid effectively
 Improve decision-making using data
 # Objectives
 Collect SpaceX launch data using API & web scraping
+
 Perform data cleaning and preprocessing
+
 Conduct exploratory data analysis (EDA)
+
 Build interactive visualizations
+
 Develop machine learning models for prediction
+
 Evaluate model performance
+
 # Technologies Used
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn
+
 Plotly Dash (Dashboard)
+
 Folium (Maps Visualization)
+
 Scikit-learn (ML Models)
+
 SQL (EDA Analysis)
+
 Jupyter Notebook
 # Project Structure
 ├── Data Collection API.ipynb
@@ -62,37 +75,60 @@ Jupyter Notebook
 # Project Workflow
 1.Data Collection
 SpaceX REST API
+
 Web scraping (Wikipedia)
+
 2️⃣ Data Wrangling
+
 Handling missing values
+
 Feature engineering
+
 Data cleaning
+
 3️⃣ Exploratory Data Analysis (EDA)
 Launch success trends
+
 Payload vs success rate
+
 Launch site analysis
+
 SQL-based insights
+
 4️⃣ Data Visualization
 Interactive plots
+
 Geographic maps using Folium
+
 5️⃣ Machine Learning
 
 # Models used:
-
 Logistic Regression
+
 Decision Tree
+
 Support Vector Machine
+
 KNN
+
 Hyperparameter tuning using GridSearchCV
+
 Model evaluation using accuracy score
+
 # Key Insights
 Launch success rate improves over time
+
 Certain launch sites have higher success rates
+
 Payload mass affects landing success
+
 Machine learning models can effectively predict landing outcomes
+
 # Results
 Built classification models for predicting landing success
+
 Compared multiple models to find best performance
+
 Developed interactive dashboard for visualization
 # Dashboard
 
@@ -108,16 +144,24 @@ also can  visualize by run dashboard application  given :
       https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-/blob/main/spacex_dash_app_complete.py
 # How to Run the Project
 Clone the repository
+
 git clone https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-
+
 Install dependencies
 pip install -r requirements.txt
+
 Run notebooks in Jupyter
+
 Run dashboard
 python app.py
+
 # Future Improvements
 Use advanced ML models (XGBoost, Random Forest)
+
 Deploy dashboard online
+
 Improve feature engineering
+
 Use real-time data integration
 # Author
 
