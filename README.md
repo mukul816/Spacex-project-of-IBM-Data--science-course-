@@ -1,12 +1,12 @@
-# 🚀 SpaceX Falcon 9 Landing Prediction
+#  SpaceX Falcon 9 Landing Prediction
 # IBM Data Science Capstone Project
-# 📌 Project Overview
+#  Project Overview
 
 This project is part of the IBM Data Science Professional Certificate. The goal is to analyze SpaceX Falcon 9 launch data and build machine learning models to predict whether the first stage will land successfully.
 
 SpaceX reduces launch costs by reusing rocket boosters. By predicting landing success, we can estimate launch costs and help competing companies make better business decisions.
 
-# 🎯 Business Problem
+#  Business Problem
 
 SpaceX launches cost around $62 million, while competitors may charge over $165 million. The key reason is reusability of the first stage.
 
@@ -44,6 +44,7 @@ Scikit-learn (ML Models)
 SQL (EDA Analysis)
 
 Jupyter Notebook
+
 # Project Structure
 ├── Data Collection API.ipynb
 
@@ -78,7 +79,7 @@ SpaceX REST API
 
 Web scraping (Wikipedia)
 
-2️⃣ Data Wrangling
+2️ Data Wrangling
 
 Handling missing values
 
@@ -86,7 +87,7 @@ Feature engineering
 
 Data cleaning
 
-3️⃣ Exploratory Data Analysis (EDA)
+3️ Exploratory Data Analysis (EDA)
 Launch success trends
 
 Payload vs success rate
@@ -95,12 +96,12 @@ Launch site analysis
 
 SQL-based insights
 
-4️⃣ Data Visualization
+4️ Data Visualization
 Interactive plots
 
 Geographic maps using Folium
 
-5️⃣ Machine Learning
+5️ Machine Learning
 
 # Models used:
 Logistic Regression
@@ -130,18 +131,7 @@ Built classification models for predicting landing success
 Compared multiple models to find best performance
 
 Developed interactive dashboard for visualization
-# Dashboard
 
-Interactive dashboard built using Plotly Dash to visualize:
-
-Launch success rates
-Payload vs success
-Launch site comparisons
-      This above you can see by open this link:
-      https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-/blob/main/Data%20sciene%20capstone%20complete%20project.pdf
-      
-also can  visualize by run dashboard application  given :
-      https://github.com/mukul816/Spacex-project-of-IBM-Data--science-course-/blob/main/spacex_dash_app_complete.py
 # How to Run the Project
 Clone the repository
 
