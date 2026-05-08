@@ -79,7 +79,7 @@ SpaceX REST API
 
 Web scraping (Wikipedia)
 
-2️ Data Wrangling
+2️.Data Wrangling
 
 Handling missing values
 
@@ -87,7 +87,7 @@ Feature engineering
 
 Data cleaning
 
-3️ Exploratory Data Analysis (EDA)
+3️.Exploratory Data Analysis (EDA)
 Launch success trends
 
 Payload vs success rate
@@ -96,12 +96,12 @@ Launch site analysis
 
 SQL-based insights
 
-4️ Data Visualization
+4️.Data Visualization
 Interactive plots
 
 Geographic maps using Folium
 
-5️ Machine Learning
+5️.Machine Learning
 
 # Models used:
 Logistic Regression
@@ -155,8 +155,5 @@ Improve feature engineering
 Use real-time data integration
 # Author
 
-Mukul Girdhar
+Mukul
 
-🎓 Master’s in Economics
-📊 Data Science Enthusiast
-💻 Skills: Python, SQL, Machine Learning, Data Visualization
